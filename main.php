@@ -1,7 +1,7 @@
 <?php
 /*Plugin Name: Post Grid for bootScore
 Plugin URI: https://bootscore.me/plugins/post-grid/
-Description: Post slider for bootScore theme https://bootscore.me. Use Shortcode like this [post-grid type="post" category="sample-category" order="ASC" orderby="title" posts="12"] and read readme.txt in PlugIn folder for options.
+Description: Post Grid for bootScore theme https://bootscore.me. Use Shortcode like this [post-grid type="post" category="sample-category" order="ASC" orderby="title" posts="12"] and read readme.txt in PlugIn folder for options.
 Version: 1.0.0
 Author: Bastian Kreiter
 Author URI: https://crftwrk.de
